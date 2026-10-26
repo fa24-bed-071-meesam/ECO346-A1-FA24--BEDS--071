@@ -1,0 +1,7 @@
+Q4 design changes (default to redesigned Q3):
+1. Added clear title and descriptive axis labels so viewers know the population and measure.
+2. Used a logarithmic earnings axis to display the wide range of positive earnings without hiding lower values.
+3. Added weighted mean markers and a connecting line to reveal age-band patterns.
+4. Used hollow markers for thin age bands and annotated the highest mean to flag uncertainty and direct attention.
+
+Default feature hidden: the default plot gives every observation equal visual prominence and does not show household-weighted group summaries or flag small age-band samples.
